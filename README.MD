@@ -6,7 +6,7 @@ To install the project and run it, follow these steps:
 
 3. Run the command: pip install -r requirements.txt
 
-4. Run the command: docker-compose up
+4. Run the command: docker-compose up -d
 
 5. Edit client.py and .env according to their tasks
 
